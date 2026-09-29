@@ -1,1 +1,1 @@
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/2bb0060c-712b-4ffb-893c-9ec07e5dcf26" />[Kerentanan-Banjir-Kab.-Cilacap](file:///C:/Users/LENOVO/Downloads/SEMESTER%205/SIG/PRAKTIKUM%202%20SIG/PENUGASAN%202%20SIG/qgis2web_2026_09_30-00_36_11_932131/index.html#10/-7.4625/108.9744)
+[Kerentanan-Banjir-Kab.-Cilacap](file:///C:/Users/LENOVO/Downloads/SEMESTER%205/SIG/PRAKTIKUM%202%20SIG/PENUGASAN%202%20SIG/qgis2web_2026_09_30-00_36_11_932131/index.html#10/-7.4625/108.9744)
